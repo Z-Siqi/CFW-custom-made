@@ -7,3 +7,7 @@
 * 汉化
 * 去除广告
 * 去除更新
+
+***
+
+#### [向我捐赠](https://github.com/ender-zhao/EZ)
