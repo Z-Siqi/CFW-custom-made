@@ -21,4 +21,6 @@
 如果你还是需要移除广告及更新，可以下载[教程](https://github.com/ender-zhao/CFW-custom-made/raw/main/Clash.for.Windows.-ads.-update.zip)及需要的[工具](https://github.com/ender-zhao/Clash-for-Windows_Chinese/raw/main/chinese_file/Clash-for-Windows_%20Chinese-%20tools.zip), 然后自己制作
 (你如果想，不妨尝试自己写一个项目，然后发布，但请附上该库的链接，并且请通知我)
 
+***
+
 #### [向我捐赠](https://github.com/ender-zhao/EZ)
