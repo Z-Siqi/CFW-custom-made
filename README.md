@@ -12,7 +12,7 @@
 
 **下载[自动替换脚本](https://github.com/ender-zhao/CFW-custom-made/releases/tag/Auto-Script)**
 
-**下载[已去除广告，更新版本](https://github.com/ender-zhao/CFW-custom-made/releases/tag/)**
+**下载[已去除广告，更新版本](https://github.com/ender-zhao/CFW-custom-made/releases/tag/Clash-for-Windows)**
 
 ***
 
