@@ -10,6 +10,12 @@
 
 ***
 
+**下载[自动替换脚本](https://github.com/ender-zhao/CFW-custom-made/releases/tag/Auto-Script)**
+
+**下载[已去除广告，更新版本](https://github.com/ender-zhao/CFW-custom-made/releases/tag/)**
+
+***
+
 有关移除广告及更新功能的测试结束，发现偏题了
 
 ### 这个版本将不会再持续去适配最新版Clash for Windows
