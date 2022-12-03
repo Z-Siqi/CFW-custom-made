@@ -32,6 +32,6 @@
 
 Clash for Windows的广告内容是可以客制化的, 且及其容易实现。这意味着你可以向Clash for Windows中植入你自己的推销信息
 
-具体实现方法: 
+**具体实现方法:**
 
 将`app.asar`中的`renderer.js`文件里的`https://raw.githubusercontent.com/Fndroid/ads/master/ads_v2.json`链接替换掉及可实现
