@@ -35,3 +35,43 @@ Clash for Windows的广告内容是可以客制化的, 且及其容易实现。�
 **具体实现方法:**
 
 将`app.asar`中的`renderer.js`文件里的`https://raw.githubusercontent.com/Fndroid/ads/master/ads_v2.json`链接替换掉及可实现
+
+**[下载Clash for Windows v0.20.0的举例版本](https://github.com/ender-zhao/CFW-custom-made/raw/main/Customize/CFW-0.20.0_app.7z)**
+
+使用方法: 将文件解压至`Clash.for.Windows-0.20.0-win/resources/`中
+
+替换的链接内容及格式:
+
+<details><summary>ads.js</summary>
+
+```
+{
+  "feedback": [
+    {
+      "img": "https://raw.githubusercontent.com/ender-zhao/CFW-custom-made/main/Customize/eg-picture-ads.png",
+      "click": "https://github.com/ender-zhao/CFW-custom-made"
+    },
+    {
+      "img": "https://raw.githubusercontent.com/ender-zhao/CFW-custom-made/main/Customize/eg-picture-ads.png",
+      "click": "https://github.com/ender-zhao/CFW-custom-made"
+    }
+  ]
+}
+```
+**注释:**
+
+`"img"`中的链接是广告图片的链接
+
+`"click"`中的链接是点击后跳转的网页
+
+</details>
+
+#### 广告
+
+如果需要我帮忙汉化和植入链接或更改一些选项, 请通过`Issues`发问题联系我
+
+收费大概`30CNY`一个版本(仅包括植入自定义广告所需的js链接和移除更新)
+
+如果还需要移除更改一些选项的超链接和名称, 每更改一个选项多收费`50CNY`(因为复杂性较高) 
+
+但兼容后续版本正常情况下收费`30CNY`, 无论需要更改多少个选项
