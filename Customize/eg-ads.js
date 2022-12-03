@@ -1,12 +1,12 @@
 {
   "feedback": [
     {
-      "img": "https://tly33.com/asset/clash.gif",
-      "click": "https://tly.llc"
+      "img": "https://raw.githubusercontent.com/ender-zhao/CFW-custom-made/main/Customize/eg-picture-ads.png",
+      "click": "https://github.com/ender-zhao/CFW-custom-made"
     },
     {
-      "img": "https://jindouyun.pao1.site/ad_jike.png",
-      "click": "https://jike0001.com/auth/register?code=gcYV"
+      "img": "https://raw.githubusercontent.com/ender-zhao/CFW-custom-made/main/Customize/eg-picture-ads.png",
+      "click": "https://github.com/ender-zhao/CFW-custom-made"
     }
   ]
 }
