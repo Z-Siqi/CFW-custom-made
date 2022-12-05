@@ -75,3 +75,9 @@ Clash for Windows的广告内容是可以客制化的, 且及其容易实现。�
 如果还需要移除更改一些选项的超链接和名称, 每更改一个选项多收费`20CNY`~`50CNY`(因为复杂性较高) 
 
 但兼容后续版本正常情况下收费`30CNY`, 无论需要更改多少个选项
+
+***
+
+**前往[Clash for Windows汉化版仓库](https://github.com/ender-zhao/Clash-for-Windows_Chinese)**
+
+**前往[Clash for Windows原版仓库](https://github.com/Fndroid/clash_for_windows_pkg)**
