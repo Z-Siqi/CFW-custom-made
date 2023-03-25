@@ -30,7 +30,7 @@
 
 ### 针对机场的特殊定制版本
 
-Clash for Windows的广告内容是可以客制化的, 且及其容易实现。这意味着你可以向Clash for Windows中植入你自己的推销信息
+Clash for Windows关于中的广告内容是可以客制化的, 且及其容易实现。这意味着你可以向Clash for Windows中植入你自己的推销信息
 
 **具体实现方法:**
 
@@ -67,6 +67,8 @@ Clash for Windows的广告内容是可以客制化的, 且及其容易实现。�
 </details>
 
 #### 广告
+
+*请先查看举例版本再发送`Issues`*
 
 如果需要我帮忙汉化和植入链接或更改一些选项, 请通过`Issues`发问题联系我
 
