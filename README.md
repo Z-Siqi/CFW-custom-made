@@ -1,7 +1,7 @@
 # Clash for Windows 机场专用版
 
 **这个版本是针对如下两个问题所发布的版本**
-[#4](https://github.com/ender-zhao/Clash-for-Windows_Chinese/issues/4) 
+[#4](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/issues/4) 
 
 ### 这个特制版本将更改的内容:
 * 汉化
@@ -10,9 +10,9 @@
 
 ***
 
-**下载[自动替换脚本](https://github.com/ender-zhao/CFW-custom-made/releases/tag/Auto-Script)**
+**下载[自动替换脚本](https://github.com/Z-Siqi/CFW-custom-made/releases/tag/Auto-Script)**
 
-**下载[已去除广告，更新版本](https://github.com/ender-zhao/CFW-custom-made/releases/tag/Clash-for-Windows)**
+**下载[已去除广告，更新版本](https://github.com/Z-Siqi/CFW-custom-made/releases/tag/Clash-for-Windows)**
 
 ***
 
@@ -20,7 +20,7 @@
 
 > 这个版本的适配不会频繁的更新, 甚至是长时间不更新
 
-如果你需要未兼容版本的移除广告及更新，可以下载[教程](https://github.com/ender-zhao/CFW-custom-made/raw/main/Clash.for.Windows.remove.ads.and.update.zip)及需要的[工具](https://github.com/ender-zhao/CFW-custom-made/raw/main/Clash-for-Windows_%20Chinese-%20tools.zip), 然后自己制作
+如果你需要未兼容版本的移除广告及更新，可以下载[教程](https://github.com/Z-Siqi/CFW-custom-made/raw/main/Clash.for.Windows.remove.ads.and.update.zip)及需要的[工具](https://github.com/Z-Siqi/CFW-custom-made/raw/main/Clash-for-Windows_%20Chinese-%20tools.zip), 然后自己制作
 
 ***
 
@@ -36,7 +36,7 @@ Clash for Windows关于中的广告内容是可以客制化的, 且及其容易�
 
 将`app.asar`中的`renderer.js`文件里的`https://raw.githubusercontent.com/Fndroid/ads/master/ads_v2.json`链接替换掉及可实现
 
-**[下载Clash for Windows v0.20.0的举例版本](https://github.com/ender-zhao/CFW-custom-made/raw/main/Customize/CFW-0.20.0_app.7z)**
+**[下载Clash for Windows v0.20.0的举例版本](https://github.com/Z-Siqi/CFW-custom-made/raw/main/Customize/CFW-0.20.0_app.7z)**
 
 使用方法: 将文件解压至`Clash.for.Windows-0.20.0-win/resources/`中
 
@@ -48,12 +48,12 @@ Clash for Windows关于中的广告内容是可以客制化的, 且及其容易�
 {
   "feedback": [
     {
-      "img": "https://raw.githubusercontent.com/ender-zhao/CFW-custom-made/main/Customize/eg-picture-ads.png",
-      "click": "https://github.com/ender-zhao/CFW-custom-made"
+      "img": "https://raw.githubusercontent.com/Z-Siqi/CFW-custom-made/main/Customize/eg-picture-ads.png",
+      "click": "https://github.com/Z-Siqi/CFW-custom-made"
     },
     {
-      "img": "https://raw.githubusercontent.com/ender-zhao/CFW-custom-made/main/Customize/eg-picture-ads.png",
-      "click": "https://github.com/ender-zhao/CFW-custom-made"
+      "img": "https://raw.githubusercontent.com/Z-Siqi/CFW-custom-made/main/Customize/eg-picture-ads.png",
+      "click": "https://github.com/Z-Siqi/CFW-custom-made"
     }
   ]
 }
@@ -80,6 +80,6 @@ Clash for Windows关于中的广告内容是可以客制化的, 且及其容易�
 
 ***
 
-**前往[Clash for Windows汉化版仓库](https://github.com/ender-zhao/Clash-for-Windows_Chinese)**
+**前往[Clash for Windows汉化版仓库](https://github.com/Z-Siqi/Clash-for-Windows_Chinese)**
 
 **前往[Clash for Windows原版仓库](https://github.com/Fndroid/clash_for_windows_pkg)**
