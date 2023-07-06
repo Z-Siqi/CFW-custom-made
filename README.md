@@ -22,6 +22,9 @@
 
 如果你需要未兼容版本的移除广告及更新，可以下载[教程](https://github.com/Z-Siqi/CFW-custom-made/raw/main/Clash.for.Windows.remove.ads.and.update.zip)及需要的[工具](https://github.com/Z-Siqi/CFW-custom-made/raw/main/Clash-for-Windows_%20Chinese-%20tools.zip), 然后自己制作
 
+
+#### 或者你也可以选择查看 **[Wiki](https://github.com/Z-Siqi/CFW-custom-made/wiki)** 以了解如何更改
+
 ***
 
 如有侵权, 请私信我删除
@@ -70,13 +73,15 @@ Clash for Windows关于中的广告内容是可以客制化的, 且及其容易�
 
 *请先查看举例版本再发送`Issues`*
 
-如果需要我帮忙汉化和植入链接或更改一些选项, 请通过`Issues`发问题联系我
+如果需要我帮忙汉化和更改超链接及其文本内容或更改(移除)一些选项, 请通过`Issues`发问题联系我
 
 收费大概`30CNY`一个版本(仅包括植入自定义广告所需的js链接和移除更新)
 
 如果还需要移除更改一些选项的超链接和名称, 每更改一个选项多收费`20CNY`~`50CNY`(因为复杂性较高) 
 
 但兼容后续版本正常情况下收费`30CNY`, 无论需要更改多少个选项
+
+**由于最近忙，不一定有空帮忙，建议自己更改 (方法见[Wiki](https://github.com/Z-Siqi/CFW-custom-made/wiki))**
 
 ***
 
