@@ -1,8 +1,42 @@
 {
-  "html_url": "https://github.com/Z-Siqi/Clash-for-Windows_Chinese/releases/tag/CFW-V0.20.35_CN",
+  "html_url": "https://github.com/Z-Siqi/Clash-for-Windows_Chinese/releases/tag/CFW-V0.20.36_CN",
   "tag_name": "0.20.36",
   "name": "v 0.20.36",
   "assets": [
+    {
+      "url": "https://api.github.com/repos/Fndroid/clash_for_windows_pkg/releases/assets/127218568",
+      "id": 127218568,
+      "node_id": "RA_kwDOCSk9D84HlTOI",
+      "name": "Clash.for.Windows.Setup.0.20.36.exe",
+      "label": "",
+      "uploader": {
+        "login": "Fndroid",
+        "id": 16091562,
+        "node_id": "MDQ6VXNlcjE2MDkxNTYy",
+        "avatar_url": "https://avatars.githubusercontent.com/u/16091562?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Fndroid",
+        "html_url": "https://github.com/Fndroid",
+        "followers_url": "https://api.github.com/users/Fndroid/followers",
+        "following_url": "https://api.github.com/users/Fndroid/following{/other_user}",
+        "gists_url": "https://api.github.com/users/Fndroid/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/Fndroid/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/Fndroid/subscriptions",
+        "organizations_url": "https://api.github.com/users/Fndroid/orgs",
+        "repos_url": "https://api.github.com/users/Fndroid/repos",
+        "events_url": "https://api.github.com/users/Fndroid/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/Fndroid/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "content_type": "application/x-msdownload",
+      "state": "uploaded",
+      "size": 87126108,
+      "download_count": 15548,
+      "created_at": "2023-09-22T08:00:54Z",
+      "updated_at": "2023-09-22T08:02:02Z",
+      "browser_download_url": "https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.20.36/Clash.for.Windows.Setup.0.20.36.exe"
+    }
   ],
   "body": "- **汉化已兼容新版本**",
   "reactions": {
