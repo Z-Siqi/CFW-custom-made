@@ -37,4 +37,6 @@
   "tarball_url": "https://api.github.com/repos/Fndroid/clash_for_windows_pkg/tarball/0.20.36",
   "zipball_url": "https://api.github.com/repos/Fndroid/clash_for_windows_pkg/zipball/0.20.36",
   "body": "- **Update Electron**: Updated Electron from version 22.3.18 to 22.3.24.\r\n- **Add Indicator to Shortcut Navigator**: Added an indicator to the shortcut navigator in the menu.\r\n- **Use WOFF2 Instead of TTF**: Switched from TTF to WOFF2 for Material Icons.\r\n- **Prevent DNS Reset**: Added a check to prevent DNS reset if it has not been changed.\r\n- **Custom Placeholder for Title**: Added a custom placeholder for the title in the title bar. For example, `%tun?On:Off%` will display \"On\" if the TUN mode is enabled, and \"Off\" otherwise.\r\n- **Miscellaneous**: Addressed and fixed various minor glitches.",
+    "reactions": {
+  }
 }
