@@ -3,7 +3,6 @@
   "assets_url": "https://api.github.com/repos/Fndroid/clash_for_windows_pkg/releases/122164742/assets",
   "upload_url": "https://uploads.github.com/repos/Fndroid/clash_for_windows_pkg/releases/122164742/assets{?name,label}",
   "html_url": "https://github.com/Fndroid/clash_for_windows_pkg/releases/tag/0.20.36",
-  "id": 122164742,
   "author": {
     "login": "Fndroid",
     "id": 16091562,
