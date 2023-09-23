@@ -65,10 +65,10 @@
       "download_count": 5379,
       "created_at": "2023-09-22T08:02:04Z",
       "updated_at": "2023-09-22T08:04:48Z",
-      "browser_download_url": "https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.20.36/Clash.for.Windows-0.20.36-win.7z"
+      "browser_download_url": "https://github.com/Z-Siqi/Clash-for-Windows_Chinese/releases/download/0.20.36/Clash.for.Windows-0.20.36-win.7z"
     },
     {
-      "url": "https://api.github.com/repos/Fndroid/clash_for_windows_pkg/releases/assets/127218568",
+      "url": "https://api.github.com/repos/Z-Siqi/Clash-for-Windows_Chinese/releases/assets/127218568",
       "id": 127218568,
       "node_id": "RA_kwDOCSk9D84HlTOI",
       "name": "Clash.for.Windows.Setup.0.20.36.exe",
@@ -99,7 +99,7 @@
       "download_count": 15548,
       "created_at": "2023-09-22T08:00:54Z",
       "updated_at": "2023-09-22T08:02:02Z",
-      "browser_download_url": "https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.20.36/Clash.for.Windows.Setup.0.20.36.exe"
+      "browser_download_url": "https://github.com/Z-Siqi/Clash-for-Windows_Chinese/releases/download/0.20.36/Clash.for.Windows.Setup.0.20.36.exe"
     },
     {
       "url": "https://api.github.com/repos/Fndroid/clash_for_windows_pkg/releases/assets/127221234",
