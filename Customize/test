@@ -4,17 +4,7 @@
   "name": "v 0.20.36",
   "assets": [
     {
-      "url": "https://api.github.com/repos/Fndroid/clash_for_windows_pkg/releases/assets/127218568",
-      "id": 127218568,
-      "node_id": "RA_kwDOCSk9D84HlTOI",
       "name": "Clash.for.Windows.Setup.0.20.36.exe",
-      "label": "",
-      "content_type": "application/x-msdownload",
-      "state": "uploaded",
-      "size": 87126108,
-      "download_count": 15548,
-      "created_at": "2023-09-22T08:00:54Z",
-      "updated_at": "2023-09-22T08:02:02Z",
       "browser_download_url": "https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.20.36/Clash.for.Windows.Setup.0.20.36.exe"
     }
   ],
